@@ -1,0 +1,79 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+.sectionContent h2, .sectionContent ul {
+  text-align: center;
+}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+  .homeText  h1 {
+    font-size: 24px
+  }
+  .resumeWrapper h3, .resumeWrapper .resumeIcon {
+    text-align: center !important;
+  }
+  .leftResume {
+    border-right: none !important
+  }
+  .leftResume .resumeContent {
+    text-align: left;
+  }
+  .leftResume i {
+    left: 0;
+  }
+  .leftResume h3, .rightResume h3 {
+    margin-bottom: 0px
+  }
+  .rightResume i {
+    left: 0 !important;
+  }
+  .personalInformation li {
+    text-align: center;
+  }
+  }
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}

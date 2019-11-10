@@ -1,0 +1,55 @@
+{
+  "_from": "jquery.smoothscroll.js",
+  "_id": "jquery.smoothscroll.js@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-UDqZ8ES6IYxua3/o+XQrjR/KRjGhhaF1SrL4tdOH23vUNHpEwXVkV1sLb89bCfUcTN+w+Zgg8sP+MtZjeYuHiA==",
+  "_location": "/jquery.smoothscroll.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "jquery.smoothscroll.js",
+    "name": "jquery.smoothscroll.js",
+    "escapedName": "jquery.smoothscroll.js",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jquery.smoothscroll.js/-/jquery.smoothscroll.js-1.0.6.tgz",
+  "_shasum": "721e2ec2fa483618417b4a329fdd87395f218be8",
+  "_spec": "jquery.smoothscroll.js",
+  "_where": "/mnt/d/webDesignMaster",
+  "author": {
+    "name": "Kite"
+  },
+  "bugs": {
+    "url": "https://github.com/ixkaito/jquery.smoothscroll.js/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jquery": "*"
+  },
+  "deprecated": false,
+  "description": "jQuery plugin to animate scrolling to anchor links",
+  "homepage": "https://github.com/ixkaito/jquery.smoothscroll.js#readme",
+  "keywords": [
+    "jQuery",
+    "smooth",
+    "scroll"
+  ],
+  "license": "MIT",
+  "main": "jquery.smoothscroll.js",
+  "name": "jquery.smoothscroll.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixkaito/jquery.smoothscroll.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.6"
+}
